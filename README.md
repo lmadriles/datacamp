@@ -1,2 +1,2 @@
 # datacamp
-Datacamp annotations
+Annotations from the DataCamp Data Scientist Career Track
