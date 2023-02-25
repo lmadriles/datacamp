@@ -1,4 +1,9 @@
 # datacamp
-Annotations from the DataCamp Data Scientist Career Track
-Need revision. e.g.: to makesome importing examples I wrote commands to import unexisted files.
-(a secret: I don't have the intention to revise these repository, but only keep it as a source of consulting)
+Annotations from the DataCamp Data Scientist Career Track.
+
+The number in the notebook name means the position of the course in the career track.
+
+Missing numbers means that such position in the track was an activity that did not require taking notes.
+
+To make some examples I wrote commands to import unexisted files.
+
